@@ -131,7 +131,7 @@ Müşteri bilgilerini ve sipariş listesini görüntülemek için **Index.cshtml
   ```
 
 ## **Ekran Görüntüsü**
-![Örnek Görüntü]()
+![Örnek Görüntü](https://github.com/OsmanOzyasar/Basic_MVC/blob/master/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-09%20175427.png)
 
 ## **Lisans**
 Bu proje MIT Lisansı ile lisanslanmıştır. Dilediğiniz gibi kullanabilirsiniz. 📜
